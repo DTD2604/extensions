@@ -1,1 +1,1498 @@
-[]
+{
+  "name": "Dowin",
+  "badgeLabel": "DW",
+  "signingKey": "4557d8e7f930e022f56b1e626da60364b921a036d309351a98188901e1758e89",
+  "contact": {
+    "website": "https://dtd2604.github.io/extensions/"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Ariverse",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.ariverse",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.ariverse-v1.6.54.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.ariverse.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.ariverse-v1.6.54.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "54",
+        "versionName": "1.6.54",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4480433466073326866",
+            "name": "Ariverse",
+            "language": "vi",
+            "homeUrl": "https://arigl.xyz"
+          }
+        ]
+      },
+      {
+        "name": "CManga",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.cmanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.cmanga-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.cmanga.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.cmanga-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5975790728262229465",
+            "name": "CManga",
+            "language": "vi",
+            "homeUrl": "https://cmangax18.com"
+          }
+        ]
+      },
+      {
+        "name": "CuuTruyen (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.cuutruyenmoe",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.cuutruyenmoe-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.cuutruyenmoe.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.cuutruyenmoe-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3973269831131863421",
+            "name": "CuuTruyen (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://cuutruyen.net"
+          }
+        ]
+      },
+      {
+        "name": "DamCoNuong",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.damconuong",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.damconuong-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.damconuong.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.damconuong-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2680345917627448572",
+            "name": "DamCoNuong",
+            "language": "vi",
+            "homeUrl": "https://damconuong.store"
+          }
+        ]
+      },
+      {
+        "name": "DaoMeoDen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.daomeoden",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.daomeoden-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.daomeoden.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.daomeoden-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3635786412332322062",
+            "name": "DaoMeoDen",
+            "language": "vi",
+            "homeUrl": "https://daomeoden.net"
+          }
+        ]
+      },
+      {
+        "name": "Dilib",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.dilib",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.dilib-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.dilib.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.dilib-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4436086462808946847",
+            "name": "Dilib",
+            "language": "vi",
+            "homeUrl": "https://dilib.vn"
+          }
+        ]
+      },
+      {
+        "name": "DocTruyen3Q",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.doctruyen3q-v1.4.36.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.doctruyen3q.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.doctruyen3q-v1.4.36.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "36",
+        "versionName": "1.4.36",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6168143505244976507",
+            "name": "DocTruyen3Q",
+            "language": "vi",
+            "homeUrl": "https://doctruyen3qhub3.com"
+          }
+        ]
+      },
+      {
+        "name": "DocTruyen5s",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.doctruyen5s-v1.4.9.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.doctruyen5s.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.doctruyen5s-v1.4.9.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "9",
+        "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7595811359698226104",
+            "name": "DocTruyen5s",
+            "language": "vi",
+            "homeUrl": "https://manga.io.vn"
+          }
+        ]
+      },
+      {
+        "name": "Dua Leo Truyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.dualeotruyen-v1.4.24.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.dualeotruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.dualeotruyen-v1.4.24.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "24",
+        "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1039830224122325226",
+            "name": "D\u01b0a Leo Truy\u1ec7n",
+            "language": "vi",
+            "homeUrl": "https://dualeotruyenhn.com"
+          }
+        ]
+      },
+      {
+        "name": "FastScan",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.fastscan",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.fastscan-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.fastscan.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.fastscan-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4353548193024198457",
+            "name": "FastScan",
+            "language": "vi",
+            "homeUrl": "https://fastscan.org"
+          }
+        ]
+      },
+      {
+        "name": "GantzVN",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.gantzvn",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.gantzvn-v1.4.53.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.gantzvn.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.gantzvn-v1.4.53.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "53",
+        "versionName": "1.4.53",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "934565583439501324",
+            "name": "GantzVN",
+            "language": "vi",
+            "homeUrl": "https://gantzvn.com"
+          }
+        ]
+      },
+      {
+        "name": "Goc Truyen Tranh",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.goctruyentranh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.goctruyentranh-v1.4.12.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.goctruyentranh.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.goctruyentranh-v1.4.12.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "12",
+        "versionName": "1.4.12",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8162695314495646445",
+            "name": "GocTruyenTranh",
+            "language": "vi",
+            "homeUrl": "https://goctruyentranh.com"
+          }
+        ]
+      },
+      {
+        "name": "Goc Truyen Tranh Vui",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.goctruyentranhvui-v1.4.15.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.goctruyentranhvui.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.goctruyentranhvui-v1.4.15.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "15",
+        "versionName": "1.4.15",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2831859393730435398",
+            "name": "Goc Truyen Tranh Vui",
+            "language": "vi",
+            "homeUrl": "https://goctruyentranhvui30.com"
+          }
+        ]
+      },
+      {
+        "name": "CBHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.hentaicube",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.hentaicube-v1.4.89.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaicube.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.hentaicube-v1.4.89.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "89",
+        "versionName": "1.4.89",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "823638192569572166",
+            "name": "CBHentai",
+            "language": "vi",
+            "homeUrl": "https://2tencb.pro"
+          }
+        ]
+      },
+      {
+        "name": "HentaiVN.plus",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.hentaivnplus-v1.4.70.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaivnplus.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.hentaivnplus-v1.4.70.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "70",
+        "versionName": "1.4.70",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7015430763374257867",
+            "name": "HentaiVN.plus",
+            "language": "vi",
+            "homeUrl": "https://hentaivn.show"
+          }
+        ]
+      },
+      {
+        "name": "HentaiVNx",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivnx",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.hentaivnx-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.hentaivnx.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.hentaivnx-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5268102422164410592",
+            "name": "HentaiVNx",
+            "language": "vi",
+            "homeUrl": "https://www.hentaivnx.com"
+          }
+        ]
+      },
+      {
+        "name": "KamiComic",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.kamicomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.kamicomic-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.kamicomic.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.kamicomic-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4858507068999692510",
+            "name": "KamiComic",
+            "language": "vi",
+            "homeUrl": "https://kamicomi.com"
+          }
+        ]
+      },
+      {
+        "name": "KhoManhwa",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.khomanhwa",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.khomanhwa-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.khomanhwa.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.khomanhwa-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6490656436246726670",
+            "name": "KhoManhwa",
+            "language": "vi",
+            "homeUrl": "https://khomanhwa.com"
+          }
+        ]
+      },
+      {
+        "name": "KiraKira",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.kirakira",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.kirakira-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.kirakira.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.kirakira-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6706783596626868301",
+            "name": "KiraKira",
+            "language": "vi",
+            "homeUrl": "https://truyenkira.net"
+          }
+        ]
+      },
+      {
+        "name": "LoppyToon",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.loppytoon",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.loppytoon-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.loppytoon.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.loppytoon-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6580420139533147522",
+            "name": "LoppyToon",
+            "language": "vi",
+            "homeUrl": "https://loppytoon.com"
+          }
+        ]
+      },
+      {
+        "name": "LuotTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.luottruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.luottruyen-v1.4.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.luottruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.luottruyen-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6560112192335153780",
+            "name": "LuotTruyen",
+            "language": "vi",
+            "homeUrl": "https://luottruyen12.com"
+          }
+        ]
+      },
+      {
+        "name": "LuvEvaLand",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.luvevaland",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.luvevaland-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.luvevaland.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.luvevaland-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4980383988041274982",
+            "name": "LuvEvaLand",
+            "language": "vi",
+            "homeUrl": "https://luvevalands2.co"
+          }
+        ]
+      },
+      {
+        "name": "LXManga",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.lxhentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.lxhentai-v1.4.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.lxhentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.lxhentai-v1.4.33.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6495630445796108150",
+            "name": "LXManga",
+            "language": "vi",
+            "homeUrl": "https://lxmanga.space"
+          }
+        ]
+      },
+      {
+        "name": "MeDamTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.medamtruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.medamtruyen-v1.4.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.medamtruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.medamtruyen-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1359904074588349344",
+            "name": "MeDamTruyen",
+            "language": "vi",
+            "homeUrl": "https://saytongtaii.site"
+          }
+        ]
+      },
+      {
+        "name": "MeHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.mehentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.mehentai-v1.4.11.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.mehentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.mehentai-v1.4.11.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "11",
+        "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1503074002208879050",
+            "name": "MeHentai",
+            "language": "vi",
+            "homeUrl": "https://mehentai.blog"
+          }
+        ]
+      },
+      {
+        "name": "MeoSSS",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.meosss",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.meosss-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.meosss.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.meosss-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6733296438137670174",
+            "name": "MeoSSS",
+            "language": "vi",
+            "homeUrl": "https://meosss.com"
+          }
+        ]
+      },
+      {
+        "name": "MeoSua",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.meosua",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.meosua-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.meosua.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.meosua-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2280384130624669648",
+            "name": "MeoSua",
+            "language": "vi",
+            "homeUrl": "https://meosua.org"
+          }
+        ]
+      },
+      {
+        "name": "MiMi",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.mimi",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.mimi-v1.4.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.mimi.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.mimi-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2558772350527638641",
+            "name": "MiMi",
+            "language": "vi",
+            "homeUrl": "https://mimimoe.moe"
+          }
+        ]
+      },
+      {
+        "name": "MiMiHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.mimihentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.mimihentai-v1.4.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.mimihentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.mimihentai-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "8070257113818912648",
+            "name": "MiMiHentai",
+            "language": "vi",
+            "homeUrl": "https://mimihentai.net"
+          }
+        ]
+      },
+      {
+        "name": "MinoTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.minotruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.minotruyen-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.minotruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.minotruyen-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1911829101129863006",
+            "name": "MinoTruyen Manga",
+            "language": "vi",
+            "homeUrl": "https://minotruyenv5.xyz"
+          },
+          {
+            "id": "3751671803647824606",
+            "name": "MinoTruyen Comics",
+            "language": "vi",
+            "homeUrl": "https://minotruyenv5.xyz"
+          },
+          {
+            "id": "5865133728324986123",
+            "name": "MinoTruyen Hentai",
+            "language": "vi",
+            "homeUrl": "https://minotruyenv5.xyz"
+          }
+        ]
+      },
+      {
+        "name": "MoeTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.moetruyen-v1.4.7.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moetruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.moetruyen-v1.4.7.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "7",
+        "versionName": "1.4.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8689080191405841403",
+            "name": "MoeTruyen",
+            "language": "vi",
+            "homeUrl": "https://moetruyen.net",
+            "mirrorUrls": [
+              "https://moetruyen.net",
+              "https://truyen.moe"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MoeTruyenSuiCao (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyensuicao",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.moetruyensuicao-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moetruyensuicao.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.moetruyensuicao-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7257946851767599928",
+            "name": "MoeTruyenSuiCao (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://moe.suicaodex.com"
+          }
+        ]
+      },
+      {
+        "name": "MoonTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.moontruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.moontruyen-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.moontruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.moontruyen-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6728458353942273215",
+            "name": "MoonTruyen",
+            "language": "vi",
+            "homeUrl": "https://moontruyen.com"
+          }
+        ]
+      },
+      {
+        "name": "MunTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.muntruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.muntruyen-v1.4.4.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.muntruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.muntruyen-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8377696427566362386",
+            "name": "MunTruyen",
+            "language": "vi",
+            "homeUrl": "https://munedge.com"
+          }
+        ]
+      },
+      {
+        "name": "NetTruyenCO (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyenco-v1.4.16.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyenco.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.nettruyenco-v1.4.16.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "16",
+        "versionName": "1.4.16",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3563992092786616290",
+            "name": "NetTruyenCO (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://nettruyenar.com"
+          }
+        ]
+      },
+      {
+        "name": "NetTruyenS (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyens",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyens-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyens.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.nettruyens-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6085559443545258070",
+            "name": "NetTruyenS (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://nettruyen10s.com"
+          }
+        ]
+      },
+      {
+        "name": "NetTruyenViet (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenviet",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyenviet-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyenviet.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.nettruyenviet-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3975552840628459451",
+            "name": "NetTruyenViet (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://nettruyenviet10.com"
+          }
+        ]
+      },
+      {
+        "name": "NetTruyenX (unoriginal)",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyenx",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.nettruyenx-v1.4.8.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nettruyenx.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.nettruyenx-v1.4.8.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "8",
+        "versionName": "1.4.8",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3129953610837449394",
+            "name": "NetTruyenX (unoriginal)",
+            "language": "vi",
+            "homeUrl": "https://nettruyenx.net"
+          }
+        ]
+      },
+      {
+        "name": "NhatTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.nhattruyen-v1.4.29.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nhattruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.nhattruyen-v1.4.29.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "29",
+        "versionName": "1.4.29",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6861496002170366525",
+            "name": "NhatTruyen",
+            "language": "vi",
+            "homeUrl": "https://nhattruyenqq.com"
+          }
+        ]
+      },
+      {
+        "name": "NhentaiClub",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nhentaiclub",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.nhentaiclub-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.nhentaiclub.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.nhentaiclub-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "9124366814387777661",
+            "name": "NhentaiClub",
+            "language": "vi",
+            "homeUrl": "https://nhentaiclub.online"
+          }
+        ]
+      },
+      {
+        "name": "Otakusic",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.otakusic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.otakusic-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.otakusic.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.otakusic-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4694155353004433186",
+            "name": "Otakusic",
+            "language": "vi",
+            "homeUrl": "https://otakusic.com"
+          }
+        ]
+      },
+      {
+        "name": "OTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.otruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.otruyen-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.otruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.otruyen-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8070757025584294717",
+            "name": "OTruyen",
+            "language": "vi",
+            "homeUrl": "https://otruyen.cc"
+          }
+        ]
+      },
+      {
+        "name": "Panomic",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.panomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.panomic-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.panomic.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.panomic-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5418027692230441919",
+            "name": "Panomic",
+            "language": "vi",
+            "homeUrl": "https://panomic1.info"
+          }
+        ]
+      },
+      {
+        "name": "SayHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.sayhentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.sayhentai-v1.4.23.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.sayhentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.sayhentai-v1.4.23.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "23",
+        "versionName": "1.4.23",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4370817879994829481",
+            "name": "SayHentai",
+            "language": "vi",
+            "homeUrl": "https://sayhentai.cx"
+          }
+        ]
+      },
+      {
+        "name": "Seikowo",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.seikowo",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.seikowo-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.seikowo.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.seikowo-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3049157397733640125",
+            "name": "Seikowo",
+            "language": "vi",
+            "homeUrl": "https://seikowo-app.blogspot.com"
+          }
+        ]
+      },
+      {
+        "name": "SinhSieuSao",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.sinhsieusao",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.sinhsieusao-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.sinhsieusao.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.sinhsieusao-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4780099289691520887",
+            "name": "SinhSieuSao",
+            "language": "vi",
+            "homeUrl": "https://sinhsieusao.com"
+          }
+        ]
+      },
+      {
+        "name": "SoaiCaComic",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.soaicacomic-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.soaicacomic.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.soaicacomic-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1014180023829533732",
+            "name": "SoaiCaComic",
+            "language": "vi",
+            "homeUrl": "https://soaicacomic2.top"
+          }
+        ]
+      },
+      {
+        "name": "Team Lanh Lung",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.teamlanhlung-v1.4.34.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.teamlanhlung.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.teamlanhlung-v1.4.34.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "34",
+        "versionName": "1.4.34",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1832370231745386795",
+            "name": "Team L\u1ea1nh L\u00f9ng",
+            "language": "vi",
+            "homeUrl": "https://lanhhome.casa"
+          }
+        ]
+      },
+      {
+        "name": "ThienThaiTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.thienthaitruyen-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.thienthaitruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.thienthaitruyen-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4424472966200672277",
+            "name": "ThienThaiTruyen",
+            "language": "vi",
+            "homeUrl": "https://thienthaitruyen11.com"
+          }
+        ]
+      },
+      {
+        "name": "Top Truyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.toptruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.toptruyen-v1.4.9.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.toptruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.toptruyen-v1.4.9.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "9",
+        "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1166901607721102706",
+            "name": "Top Truyen",
+            "language": "vi",
+            "homeUrl": "https://www.toptruyenzone7.com"
+          }
+        ]
+      },
+      {
+        "name": "Tranh18",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.tranh18",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.tranh18-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.tranh18.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.tranh18-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1067821280191897902",
+            "name": "Tranh18",
+            "language": "vi",
+            "homeUrl": "https://tranh18.cc"
+          }
+        ]
+      },
+      {
+        "name": "Truyen18",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyen18",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyen18-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyen18.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyen18-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7451996450063331380",
+            "name": "Truyen18",
+            "language": "vi",
+            "homeUrl": "https://truyen18.co"
+          }
+        ]
+      },
+      {
+        "name": "FoxTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyengg",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyengg-v1.4.13.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyengg.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyengg-v1.4.13.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "13",
+        "versionName": "1.4.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1458993267006200127",
+            "name": "FoxTruyen",
+            "language": "vi",
+            "homeUrl": "https://foxtruyen2.com"
+          }
+        ]
+      },
+      {
+        "name": "Truyen Hentai 18+",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenhentai18-v1.4.11.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenhentai18.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyenhentai18-v1.4.11.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "11",
+        "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6484094278517548634",
+            "name": "Truy\u1ec7n Hentai 18+",
+            "language": "vi",
+            "homeUrl": "https://truyenhentai18.net"
+          }
+        ]
+      },
+      {
+        "name": "TruyenHentaivn",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenhentaivn",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenhentaivn-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenhentaivn.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyenhentaivn-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2450247754585878955",
+            "name": "TruyenHentaivn",
+            "language": "vi",
+            "homeUrl": "https://truyenhentaivn.store"
+          }
+        ]
+      },
+      {
+        "name": "TruyenHentaiz",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenhentaiz",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenhentaiz-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenhentaiz.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyenhentaiz-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7162158808407514407",
+            "name": "TruyenHentaiz",
+            "language": "vi",
+            "homeUrl": "https://truyenhentaiz.net"
+          }
+        ]
+      },
+      {
+        "name": "TruyenMM",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenmm",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenmm-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenmm.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyenmm-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4711592264872296686",
+            "name": "TruyenMM",
+            "language": "vi",
+            "homeUrl": "https://truyenmmhayr.com"
+          }
+        ]
+      },
+      {
+        "name": "TruyenQQ",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenqq-v1.4.24.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenqq.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyenqq-v1.4.24.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "24",
+        "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2553532324170433933",
+            "name": "TruyenQQ",
+            "language": "vi",
+            "homeUrl": "https://truyenqqko.com"
+          }
+        ]
+      },
+      {
+        "name": "Truyen tranh dam my",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyentranhdammy",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyentranhdammy-v1.4.55.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyentranhdammy.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyentranhdammy-v1.4.55.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "55",
+        "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3809566188515992024",
+            "name": "Truy\u1ec7n tranh \u0111am m\u1ef9",
+            "language": "vi",
+            "homeUrl": "https://truyentranhdammyy.site"
+          }
+        ]
+      },
+      {
+        "name": "TruyenTuoiTho",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyentuoitho-v1.4.55.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyentuoitho.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyentuoitho-v1.4.55.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "55",
+        "versionName": "1.4.55",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "401563321854321005",
+            "name": "TruyenTuoiTho",
+            "language": "vi",
+            "homeUrl": "https://truyentuoitho.online"
+          }
+        ]
+      },
+      {
+        "name": "TruyenTVN",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyentvn",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyentvn-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyentvn.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyentvn-v1.4.2.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3322517246209230294",
+            "name": "TruyenTVN",
+            "language": "vi",
+            "homeUrl": "https://truyentvn.net"
+          }
+        ]
+      },
+      {
+        "name": "TruyenVN",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenvn",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.truyenvn-v1.4.69.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.truyenvn.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.truyenvn-v1.4.69.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "69",
+        "versionName": "1.4.69",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "5758845301840022147",
+            "name": "TruyenVN",
+            "language": "vi",
+            "homeUrl": "https://truyenvn.sbs"
+          }
+        ]
+      },
+      {
+        "name": "TuiTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.tuitruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.tuitruyen-v1.4.3.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.tuitruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.tuitruyen-v1.4.3.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "3",
+        "versionName": "1.4.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4438807780413463687",
+            "name": "TuiTruyen",
+            "language": "vi",
+            "homeUrl": "https://tuitruyen.top"
+          }
+        ]
+      },
+      {
+        "name": "TuSachXinhXinh",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.tusachxinhxinh-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.tusachxinhxinh.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.tusachxinhxinh-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "8868105176150575136",
+            "name": "TuSachXinhXinh",
+            "language": "vi",
+            "homeUrl": "https://tusachxinhxinh12.online"
+          }
+        ]
+      },
+      {
+        "name": "UmeTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.umetruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.umetruyen-v1.4.9.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.umetruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.umetruyen-v1.4.9.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "9",
+        "versionName": "1.4.9",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2473081822885310816",
+            "name": "UmeTruyen",
+            "language": "vi",
+            "homeUrl": "https://umetruyenz.org"
+          }
+        ]
+      },
+      {
+        "name": "ViHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.vihentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.vihentai-v1.4.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vihentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.vihentai-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4004369226840135398",
+            "name": "ViHentai",
+            "language": "vi",
+            "homeUrl": "https://vi-hentai.moe"
+          }
+        ]
+      },
+      {
+        "name": "VinaHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.vinahentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.vinahentai-v1.4.11.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.vinahentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.vinahentai-v1.4.11.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "11",
+        "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4572372176917567711",
+            "name": "VinaHentai",
+            "language": "vi",
+            "homeUrl": "https://vinahentai.club"
+          }
+        ]
+      },
+      {
+        "name": "YuriGarden",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.yurigarden",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.yurigarden-v1.4.10.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurigarden.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.yurigarden-v1.4.10.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "10",
+        "versionName": "1.4.10",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2167942958141879673",
+            "name": "YuriGarden",
+            "language": "vi",
+            "homeUrl": "https://yurigarden.moe"
+          }
+        ]
+      },
+      {
+        "name": "YuriNeko",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.yurineko",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.yurineko-v1.4.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.yurineko.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.yurineko-v1.4.6.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4413681066613655890",
+            "name": "YuriNeko",
+            "language": "vi",
+            "homeUrl": "https://yurinekoz.com"
+          }
+        ]
+      },
+      {
+        "name": "ZetTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.zettruyen",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-vi.zettruyen-v1.4.11.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.vi.zettruyen.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-vi.zettruyen-v1.4.11.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "11",
+        "versionName": "1.4.11",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "893747327087652119",
+            "name": "ZetTruyen",
+            "language": "vi",
+            "homeUrl": "https://www.zettruyen.ink"
+          }
+        ]
+      }
+    ]
+  }
+}
