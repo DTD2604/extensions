@@ -8,6 +8,51 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "NHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-all.nhentai-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.nhentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-all.nhentai-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7309872737163460316",
+            "name": "NHentai",
+            "language": "all",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "3122156392225024195",
+            "name": "NHentai",
+            "language": "en",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "4726175775739752699",
+            "name": "NHentai",
+            "language": "ja",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "2203215402871965477",
+            "name": "NHentai",
+            "language": "zh",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "9165839893600661480",
+            "name": "NHentai",
+            "language": "vi",
+            "homeUrl": "https://nhentai.net"
+          }
+        ]
+      },
+      {
         "name": "Ariverse",
         "packageName": "eu.kanade.tachiyomi.extension.vi.ariverse",
         "resources": {
