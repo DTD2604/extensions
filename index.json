@@ -11,13 +11,13 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-all.nhentai-v1.6.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/apk/tachiyomi-all.nhentai-v1.6.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.nhentai.png",
-          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-all.nhentai-v1.6.10.jar"
+          "jarUrl": "https://raw.githubusercontent.com/DTD2604/extensions/refs/heads/repo/jar/tachiyomi-all.nhentai-v1.6.11.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "10",
-        "versionName": "1.6.10",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
